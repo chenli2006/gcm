@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "661535240599",
+    "firebase_url": "https://pusttest-44a30.firebaseio.com",
+    "project_id": "pusttest-44a30",
+    "storage_bucket": "pusttest-44a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661535240599:android:8a4a2631d1642e62",
+        "android_client_info": {
+          "package_name": "com.example.chenglongbao.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661535240599-6ji1807r9fhbp3o446lmuomj7d65o23v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0PwWLf3OSt2FunBL9ms_OPtRczzQz81M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
